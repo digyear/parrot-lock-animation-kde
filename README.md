@@ -11,10 +11,10 @@ The Parrot OS `parrot6` Plymouth boot animation, packaged as a self-contained KD
 
 ## Install
 
-Download `parrot-lock-animation-1.0.0.plasmoid`, then run:
+Download `parrot-lock-animation-1.0.1.plasmoid`, then run:
 
 ```bash
-kpackagetool6 --type Plasma/Wallpaper --install parrot-lock-animation-1.0.0.plasmoid
+kpackagetool6 --type Plasma/Wallpaper --install parrot-lock-animation-1.0.1.plasmoid
 ```
 
 To select it for the KDE lock screen:
@@ -48,7 +48,7 @@ kwriteconfig6 --file kscreenlockerrc --group Greeter --key WallpaperPlugin org.k
 ./build.sh
 ```
 
-The package is written to `dist/parrot-lock-animation-1.0.0.plasmoid`.
+The package is written to `dist/parrot-lock-animation-1.0.1.plasmoid`.
 
 ## Credits and license
 

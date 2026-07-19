@@ -1,0 +1,4 @@
+dist/
+*.plasmoid
+.idea/
+*.iml

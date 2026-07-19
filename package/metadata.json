@@ -1,0 +1,20 @@
+{
+  "KPackageStructure": "Plasma/Wallpaper",
+  "KPlugin": {
+    "Id": "io.github.digyear.parrotlock",
+    "Name": "Parrot Lock Animation",
+    "Description": "The Parrot OS boot animation adapted as a Plasma 6 desktop and lock-screen wallpaper",
+    "Icon": "preferences-desktop-wallpaper",
+    "Authors": [
+      {
+        "Name": "digyear",
+        "Email": ""
+      }
+    ],
+    "Category": "Animated",
+    "License": "GPL-3.0-or-later",
+    "Version": "1.0.0",
+    "Website": "https://github.com/digyear/parrot-lock-animation-kde"
+  },
+  "X-Plasma-API-Minimum-Version": "6.0"
+}

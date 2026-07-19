@@ -4,6 +4,11 @@
 
 The Parrot OS `parrot6` Plymouth boot animation, packaged as a self-contained KDE Plasma 6 wallpaper plugin. It works as both a desktop wallpaper and a KDE lock-screen wallpaper.
 
+## Download
+
+- [KDE Store](https://store.kde.org/p/2366104/)
+- [GitHub release v1.0.1](https://github.com/digyear/parrot-lock-animation-kde/releases/tag/v1.0.1)
+
 > [!NOTE]
 > KDE Plasma 6 implements lock-screen backgrounds through the same `Plasma/Wallpaper` plugin system used by the desktop. Installing this plugin makes it available in both selectors, but the desktop and lock-screen choices are stored independently. Changing the desktop wallpaper does not remove the lock-screen animation.
 
